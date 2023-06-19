@@ -2,9 +2,12 @@
   "name": "openwithdefault",
   "displayName": "Open With Default",
   "description": "Open file with the system default program.",
-  "version": "0.0.1",
+  "publisher": "Sharemee",
+  "icon": "./resource/favicon.ico",
+  "repository": "https://github.com/Sharemee/OpenWithDefault.git",
+  "version": "0.0.1-beta",
   "engines": {
-    "vscode": "^1.79.2"
+    "vscode": "^1.79.0"
   },
   "categories": [
     "Other"
