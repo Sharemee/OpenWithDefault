@@ -1,8 +1,14 @@
 # Change Log
 
-All notable changes to the "openwithdefault" extension will be documented in this file.
+## v0.0.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Content menu Right Click and select open with default.
+
+## v0.1.0
+
+Fix when file name with blank char error.
+
+Change vs code version 1.70.0, befor 1.78.0.
 
 ## [Unreleased]
 

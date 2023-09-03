@@ -5,9 +5,9 @@
   "publisher": "Sharemee",
   "icon": "./resource/favicon.ico",
   "repository": "https://github.com/Sharemee/OpenWithDefault.git",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
-    "vscode": "^1.78.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Other"
@@ -50,7 +50,7 @@
     "test": "node ./out/test/runTest.js"
   },
   "devDependencies": {
-    "@types/vscode": "^1.78.0",
+    "@types/vscode": "^1.70.0",
     "@types/glob": "^8.1.0",
     "@types/mocha": "^10.0.1",
     "@types/node": "16.x",
